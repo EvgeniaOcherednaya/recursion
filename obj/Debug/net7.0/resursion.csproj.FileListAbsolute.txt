@@ -1,0 +1,4 @@
+C:\Users\evpal\Desktop\resursion\obj\Debug\net7.0\resursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evpal\Desktop\resursion\obj\Debug\net7.0\resursion.AssemblyInfoInputs.cache
+C:\Users\evpal\Desktop\resursion\obj\Debug\net7.0\resursion.AssemblyInfo.cs
+C:\Users\evpal\Desktop\resursion\obj\Debug\net7.0\resursion.csproj.CoreCompileInputs.cache
